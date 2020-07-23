@@ -1,4 +1,4 @@
  demo_git
 Une demo de git qui se passe très bien
 et maintenant on modifie depuis github
-mais aussi depuis ma machine locale
+mais aussi depuis ma machine locale et c'est cool
